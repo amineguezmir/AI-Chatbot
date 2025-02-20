@@ -1,0 +1,13 @@
+# Python dependencies
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+
+# Virtual environments
+venv/
+env/
+
+# Ignore .env files
+.env*
